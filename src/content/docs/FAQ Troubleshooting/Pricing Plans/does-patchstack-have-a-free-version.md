@@ -13,7 +13,7 @@ sidebar:
 ---
 How does Patchstack free version help you?
 
-**With the Personal (free) version:**
+**With the Personal (Free) version:**
 
 <ul><li>You will be the first to know about new vulnerabilities!</li>
 <li>You will save time by monitoring all your websites from a single dashboard.</li>
