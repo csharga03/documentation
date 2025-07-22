@@ -13,7 +13,7 @@ sidebar:
 ---
 How does Patchstack free version help you?
 
-**With the Community free version:**
+**With the Personal (Free) version:**
 
 <ul><li>You will be the first to know about new vulnerabilities!</li>
 <li>You will save time by monitoring all your websites from a single dashboard.</li>
@@ -22,7 +22,7 @@ How does Patchstack free version help you?
 <li>You will spend fewer resources fixing WordPress security issues (avoid expensive clean-ups).</li>
 <li>You can worry less about your website’s security and focus on your work.</li></ul>
 
-**What does Patchstack Community (Free) version include?**  
+**What does Patchstack Personal (Free) version include?**  
 **Detect security issues before hackers take over your website:**
 
 <ul><li>Detect the latest security vulnerabilities in WordPress plugins.</li>
